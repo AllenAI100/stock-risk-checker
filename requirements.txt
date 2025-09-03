@@ -1,0 +1,5 @@
+streamlit
+akshare==1.16.83
+pandas
+aiohttp>=3.11.13
+
